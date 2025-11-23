@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.projectakhirpapb"
+    namespace = "com.example.dashboard2"
     compileSdk {
         version = release(36)
     }
