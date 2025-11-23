@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304546436732",
+    "project_id": "tugaspapb-hansenberg",
+    "storage_bucket": "tugaspapb-hansenberg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304546436732:android:1febd3fc490b477e6fdbf9",
+        "android_client_info": {
+          "package_name": "com.example.dashboard2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe1W-SvQWpW9TxroLA8uQ225u6qPgVeSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
